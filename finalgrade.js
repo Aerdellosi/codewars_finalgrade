@@ -36,6 +36,8 @@ window.onload = function() {
                 finalGradeReturn = "final grade: 0";
             }
 
+            
+
             return finalGradeReturn;
 
         }
